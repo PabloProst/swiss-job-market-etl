@@ -24,11 +24,11 @@ by canton.
 ---
 ## Key Insights
 
-- **Top Skills**:
+#### Top Skills:
 ![Top Skills](images/top_10_most_demanded_skills.png)
 
 
-- **Job Distribution by Canton**:
+#### Job Distribution by Canton:
 ![Job Distribution](images/top_swiss_cantons_by_job_postings.png)
 
 ---
