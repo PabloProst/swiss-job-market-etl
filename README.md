@@ -36,20 +36,33 @@ by canton.
 ## Project Structure
 
 swiss-job-market-etl/
+
 │
+
 ├── src/
+
 │ ├── extract.py # Fetches raw job data from the Adzuna API
 │ ├── transform.py # Cleans and normalizes raw job data
 │ └── finalize.py # Extracts skills and produces final dataset
+
 │
+
 ├── notebooks/
+
 │ └── exploratory_analysis.ipynb # Data analysis and visualizations
-│
+
+
 ├── data/
+
 │ └── processed/ # Clean and final CSV datasets
+
 │
+
 ├── requirements.txt
+
 └── README.md
+
+
 
 
 ---
